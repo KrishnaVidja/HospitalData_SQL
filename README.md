@@ -2,9 +2,16 @@
 
 In this phase of our hospital data project, we employ SQL to double-check our findings from Tableau and Python. SQL helps us confirm that our data is accurate, cross-reference our results, and make sure everything is in perfect order. 
 
-In this phase, I played a crucial role in constructing a well-organized database using an Entity-Relationship Diagram (ERD). This ERD acted as a map, guiding us in establishing connections between different pieces of hospital data. It's like putting each puzzle piece in the right place, making our data easily accessible and setting the stage for insightful analysis. I also made use of essential tools like Primary Keys, Foreign Keys, and Composite Keys to ensure that our data relationships were sound and robust, setting the foundation for accurate and cohesive data analysis.
+#### Hospital Database Management
+* Hospital Database catalyse the workflow of the patients right from their admission to discharges.
+* This is to maintain the patient’s database consistency for further retrieval and get insights on the health pattern of their patients based on the relative tables.
+* We can track details of each patient right from the appointment to discharge and all the entities associated during the stay.
+* The schema consists of 18 tables where each table has a primary key and Foreign key associated with one to many, many to one and many to many relationships connected across the database tables.
+* Triggers are used multiple times to ease the process of updating the database every time a new entry is made.
+* Various DML and DDL languages like Alter, Drop, Insert have been used multiple times in manipulation of tables.
+* Column constraints have been implemented to prevent invalid user entry.
 
-Let's see how SQL puts the final polish on our extensive data analysis.
+With using this Database let's see how SQL puts the final polish on our extensive data analysis.
 
 #### Enhanced Data Accuracy
 Employed SQL to extract, cleanse, and validate crucial hospital data, ensuring its integrity and reliability for analysis.
