@@ -24,4 +24,9 @@ Employed SQL to analyze clinical outcomes, including mortality rates and readmis
 #### Automation for Efficiency
 Implemented SQL triggers to automate actions tied to specific data events, streamlining data management processes and ensuring timely responses within the hospital's database.
 
+#### Hospital Dataset ERD
+
+![HospitalDB_ERD_2022](https://github.com/KrishnaVidja/HospitalData_SQL/assets/106781881/2f0aa5e1-7e82-44d1-a18e-e24c3a9de7ae)
+
+
 
